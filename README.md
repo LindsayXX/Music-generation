@@ -3,13 +3,13 @@
 Project for DT2119 Speech and Speaker Recognition
 
 
-Datasets:
+## Datasets:
 
-Methods:
+## Methods:
 
-Experiment:
+## Experiment:
 
-Result:
+## Result:
 
 We are inspired by the following papers:
 
