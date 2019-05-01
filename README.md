@@ -5,6 +5,12 @@ Project for DT2119 Speech and Speaker Recognition
 
 ## Datasets:
 
+### version 1:
+
+40 Piano music corpus of 4 composers. Use prepossing.py for reading, preprossing and extracting the features of .wav files.
+
+
+
 ## Methods:
 
 ## Experiment:
